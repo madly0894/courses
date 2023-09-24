@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.ant-modal-header {
+  margin-bottom: 16px !important;
+}
+
+.ant-modal-footer {
+  margin-top: 16px !important;
+}
+
+.ant-table-wrapper {
+  width: 100%;
+  height: 100vh;
+  overflow-y: auto;
+}
